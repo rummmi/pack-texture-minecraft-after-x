@@ -1,0 +1,29 @@
+{
+  "name": "MinecraftStyle64_core",
+  "version": "1.0.0",
+  "resolution": 64,
+  "author": "rummmi",
+  "description": "Starter pack 64x64, style Minecraft-inspired, original textures for bloxd.io (core set).",
+  "textures": [
+    "grass_top",
+    "grass_side",
+    "dirt",
+    "stone",
+    "cobble",
+    "planks_oak",
+    "log_oak_side",
+    "log_oak_top",
+    "leaves_oak",
+    "sand",
+    "water",
+    "glass",
+    "brick",
+    "torch",
+    "chest",
+    "iron_ore",
+    "diamond_ore",
+    "elytra",
+    "ender_pearl",
+    "torch_glint"
+  ]
+}
